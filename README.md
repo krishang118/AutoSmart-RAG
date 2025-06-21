@@ -85,6 +85,10 @@ Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retriev
 - Async Operations: Non-blocking web scraping and processing
 - Resource Management: Automatic cleanup and memory management
 
-AutoSmart-RAG   
+## Contributing
 
-A self-correcting RAG pipeline with web scraping, vector search, and dual-stage local LLM reasoning for enhanced AI-powered question answering.
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License.  
