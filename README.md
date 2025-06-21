@@ -26,7 +26,7 @@ Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retriev
 - Ollama (for Local LLM inference)
 - Chrome/Chromium browser (for Selenium web scraping)
 
-### Setting Up
+### Usage
 
 1. Clone this repository on your local machine.
 2. Install dependencies:
