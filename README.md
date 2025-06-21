@@ -43,36 +43,36 @@ Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retriev
 
 ## System Components
 
-### 1. WebScraper
+### 1. Web Scraper
 - Supports both requests and Selenium-based scraping
 - Intelligent fallback mechanisms
 - Caching system to avoid redundant requests
 - Prioritizes trusted news sources
 
-### 2. TextChunker
+### 2. Text Chunker
 - Sentence-aware text chunking
 - Configurable chunk size and overlap
 - Token-based chunking using transformers tokenizer
 - Metadata preservation
 
-### 3. EmbeddingManager
+### 3. Embedding Manager
 - Uses SentenceTransformers for text embeddings
 - Batch processing for efficiency
 - GPU/MPS support for faster inference
 
-### 4. VectorDatabase
+### 4. Vector Database
 - Supports ChromaDB (persistent) and FAISS (in-memory)
 - Cosine similarity search
 - Duplicate detection and filtering
 - Configurable similarity thresholds
 
-### 5. DeepSeekLLM
+### 5. DeepSeek LLM
 - Integrates with Ollama for local LLM inference
 - Handles model availability checking
 - Timeout and retry mechanisms
 - Supports various DeepSeek model variants
 
-### 6. RAGReasoner
+### 6. RAG Reasoner
 - Orchestrates the entire pipeline
 - Two-stage reasoning process
 - Self-correction mechanism
