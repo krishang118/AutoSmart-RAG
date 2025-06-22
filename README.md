@@ -12,7 +12,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system that combines web sc
 - Flexible Configuration: Easily customizable parameters and models
 - Comprehensive Logging: Efficient progress tracking
 
-## Flow
+## Project Flow
 
 ```
 Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retrieval → Local LLM Reasoning → Self-Correction → Final Answer
