@@ -29,7 +29,7 @@ Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retriev
 ### Usage
 
 1. Clone this repository on your local machine.
-2. Install dependencies:
+2. Install the required dependencies:
    ```bash
    pip install numpy pandas torch faiss-cpu chromadb sentence-transformers selenium webdriver-manager requests aiohttp beautifulsoup4 nltk transformers ollama tqdm
    ```
