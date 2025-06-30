@@ -33,7 +33,7 @@ Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retriev
    ```bash
    pip install numpy pandas torch faiss-cpu chromadb sentence-transformers selenium webdriver-manager requests aiohttp beautifulsoup4 nltk transformers ollama tqdm
    ```
-3. Install and setup Ollama, and run the LLM:
+3. Install and set up Ollama, and run the LLM:
    ```bash
    # Install Ollama (visit https://ollama.ai)
    # Pull the required model
