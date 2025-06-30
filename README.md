@@ -39,7 +39,7 @@ Query → Web Scraping → Text Chunking → Embedding → Vector DB → Retriev
    # Pull the required model
    ollama run deepseek-r1:14b
    ```
-4. Open and run the `AutoSmart RAG.ipynb` Jupyter Notebook.
+4. Open and run the `AutoSmart RAG.ipynb` Jupyter Notebook file.
 
 ## System Components
 
