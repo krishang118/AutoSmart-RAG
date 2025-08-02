@@ -1,7 +1,7 @@
 # AutoSmart (Automated Smart) RAG: Self-Correcting AI Search and Reasoning
  
 A sophisticated Retrieval-Augmented Generation (RAG) system that combines web scraping, vector embeddings, and self-correcting local LLM reasoning to provide accurate, contextual answers to user queries.
-
+ 
 ## Features
 
 - Real-time Web Scraping: Intelligently scrapes news sources and web content
